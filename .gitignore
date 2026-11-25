@@ -1,0 +1,6 @@
+# This repo only hosts the two pages Google needs for the OAuth app
+# (homepage + privacy policy, served by GitHub Pages from /docs).
+# Everything else in this folder stays on this PC.
+/*
+!/.gitignore
+!/docs/
